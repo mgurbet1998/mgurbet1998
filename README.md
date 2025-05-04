@@ -16,4 +16,4 @@ Here's a bit more about me:
 - **Languages:** Python, C++, HTML, CSS, PHP
 - **Frameworks:** Django, Flask, React
 - **Tools:** Git, Docker, VS Code
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** Mysql
